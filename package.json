@@ -1,6 +1,6 @@
 {
-  "name": "@bnb/card",
-  "version": "1.6.0",
+  "name": "adambowles",
+  "version": "1.0.0",
   "description": "A personal card for Adam Bowles (@adambowles)",
   "main": "/bin/card.js",
   "bin": {
