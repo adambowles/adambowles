@@ -15,8 +15,7 @@
     "prepublish": "npm run build",
     "build": "node build.js",
     "dev": "npm run build && node ./bin/card.js",
-    "lint": "standard",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "prettier --config .prettierrc.js \"**/*.js\" --write"
   },
   "keywords": [
     "card",
@@ -34,7 +33,8 @@
   ],
   "devDependencies": {
     "boxen": "4.1.0",
-    "chalk": "2.4.2"
+    "chalk": "2.4.2",
+    "prettier": "1.18.2"
   },
   "bugs": {
     "url": "https://github.com/adambowles/adambowles/issues"

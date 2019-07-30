@@ -44,6 +44,7 @@ const linkedining = `${data.labelLinkedIn} ${data.linkedin}`
 const webing = `${data.labelWeb} ${data.web}`
 const carding = `${data.labelCard} ${data.npx}`
 
+// prettier-ignore
 // Put all our output together into a single variable so we can use boxen effectively
 const output = heading + // data.name + data.handle
   newline + newline + // Add one whole blank line
