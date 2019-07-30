@@ -45,9 +45,5 @@
   },
   "bugs": {
     "url": "https://github.com/adambowles/adambowles/issues"
-  },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
   }
 }
