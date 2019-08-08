@@ -1,6 +1,6 @@
 {
   "name": "adambowles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Adam Bowles (@adambowles)",
   "main": "/bin/card.js",
   "bin": {
